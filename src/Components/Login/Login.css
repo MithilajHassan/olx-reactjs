@@ -35,4 +35,9 @@
     justify-content: center;
     cursor: pointer;
   }
+  .errorMsg{
+    color: red;
+    text-align: center;
+  }
+  
   
